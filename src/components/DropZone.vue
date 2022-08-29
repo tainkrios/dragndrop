@@ -30,7 +30,6 @@ const toggleActive = () => {
   --squircle-fill: #fff;
   --squircle-radius: 80px;
   --squircle-smooth: 1;
-  /* --squircle-outline: 2px. */
 }
 .active-dropzone {
   color: #fff;
