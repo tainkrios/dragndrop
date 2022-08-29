@@ -1,4 +1,4 @@
-# .
+#
 
 Custom Drag and Drop component.
 
